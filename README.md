@@ -1,1 +1,1 @@
-# lection NodeJS_IK-92_Sheliekhanov_Artem
+# lection JS_IK-92_Sheliekhanov_Artem
